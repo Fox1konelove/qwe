@@ -1,0 +1,10 @@
+C:\Users\Fox1k\Desktop\3зд\3зд\obj\Debug\3зд.csproj.AssemblyReference.cache
+C:\Users\Fox1k\Desktop\3зд\3зд\obj\Debug\_3зд.Form1.resources
+C:\Users\Fox1k\Desktop\3зд\3зд\obj\Debug\_3зд.Properties.Resources.resources
+C:\Users\Fox1k\Desktop\3зд\3зд\obj\Debug\3зд.csproj.GenerateResource.cache
+C:\Users\Fox1k\Desktop\3зд\3зд\obj\Debug\3зд.csproj.CoreCompileInputs.cache
+C:\Users\Fox1k\Desktop\3зд\3зд\bin\Debug\3зд.exe.config
+C:\Users\Fox1k\Desktop\3зд\3зд\bin\Debug\3зд.exe
+C:\Users\Fox1k\Desktop\3зд\3зд\bin\Debug\3зд.pdb
+C:\Users\Fox1k\Desktop\3зд\3зд\obj\Debug\3зд.exe
+C:\Users\Fox1k\Desktop\3зд\3зд\obj\Debug\3зд.pdb
