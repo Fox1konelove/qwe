@@ -1,0 +1,10 @@
+C:\Users\Fox1k\Desktop\пр8\пр8\bin\Debug\пр8.exe.config
+C:\Users\Fox1k\Desktop\пр8\пр8\bin\Debug\пр8.exe
+C:\Users\Fox1k\Desktop\пр8\пр8\bin\Debug\пр8.pdb
+C:\Users\Fox1k\Desktop\пр8\пр8\obj\Debug\пр8.csproj.AssemblyReference.cache
+C:\Users\Fox1k\Desktop\пр8\пр8\obj\Debug\пр8.Form1.resources
+C:\Users\Fox1k\Desktop\пр8\пр8\obj\Debug\пр8.Properties.Resources.resources
+C:\Users\Fox1k\Desktop\пр8\пр8\obj\Debug\пр8.csproj.GenerateResource.cache
+C:\Users\Fox1k\Desktop\пр8\пр8\obj\Debug\пр8.csproj.CoreCompileInputs.cache
+C:\Users\Fox1k\Desktop\пр8\пр8\obj\Debug\пр8.exe
+C:\Users\Fox1k\Desktop\пр8\пр8\obj\Debug\пр8.pdb
